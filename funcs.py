@@ -1,7 +1,7 @@
 def summ_(x, y):
-    return x + y
+    print(x + y)
 
 def subtraction(x, y):
-    return x - y
+    print(x - y)
 
 
